@@ -7,7 +7,7 @@ This is a simple python script to recognize hand gestures and implemented as a c
 Firstly pip intsall the requirements.txt file from :
 
 ```bash
-pip install -r requirements,txt
+pip install -r requirements.txt
 ```
 
 Then execeute the `main.py` script in a bash shell or any terminal environment .
